@@ -1,2 +1,3 @@
 # Startbahn
 Repository for ideas and chunks of genius
+Trying out github's branching, editing and commitment features...
